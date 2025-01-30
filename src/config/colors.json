@@ -1,9 +1,1 @@
-{
-  "colors": {
-    "primary": "#FF0000",
-    "secondary": "#00FF00",
-    "accent": "#0000FF",
-    "custom-blue": "#1E90FF",
-    "custom-green": "#32CD32"
-  }
-}
+{"primary":"blue","secondary":"orange","text":"#333333"}
